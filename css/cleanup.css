@@ -4,7 +4,7 @@
 }
 
 /* Tag 2 -> 200 */
-body #wall #tag-2 { /* 201 */
+#wall div#tag-2 { /* 201 */
   display: none;
 }
 
